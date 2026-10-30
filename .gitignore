@@ -1,0 +1,13 @@
+/dist
+/node_modules
+/build
+/coverage
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+/.agents/
+/.claude/
+/.windsurf/
+/src/generated/prisma/
+/generated/
